@@ -1,0 +1,72 @@
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:79 -print request accepted successfully
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -100 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -101 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -102 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -103 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -104 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -105 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -106 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -107 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -108 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -109 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -110 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -111 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -112 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -113 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -114 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:66 -remove request accepted successfully
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:93 -object removed  :102
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:22 -get request accepted successfully
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:94 -object accessed :106
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:79 -print request accepted successfully
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -100 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -101 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -103 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -104 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -105 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -106 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -107 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -108 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -109 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -110 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -111 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -112 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -113 
+2020-03-06 19:47:09 INFO  customCollection.MyCustomCollection:81 -114 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:79 -print request accepted successfully
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -100 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -101 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -102 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -103 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -104 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -105 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -106 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -107 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -108 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -109 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -110 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -111 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -112 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -113 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:81 -114 
+2020-03-06 19:52:06 INFO  customCollection.MyCustomCollection:94 -enter an index to be removed from collection:
+2020-03-06 19:52:15 INFO  customCollection.MyCustomCollection:66 -remove request accepted successfully
+2020-03-06 19:52:15 INFO  customCollection.MyCustomCollection:96 -object removed  :106
+2020-03-06 19:52:15 INFO  customCollection.MyCustomCollection:97 -enter an index to be accessed from collection:
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:22 -get request accepted successfully
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:99 -object accessed :111
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:79 -print request accepted successfully
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -100 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -101 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -102 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -103 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -104 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -105 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -107 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -108 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -109 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -110 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -111 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -112 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -113 
+2020-03-06 19:52:21 INFO  customCollection.MyCustomCollection:81 -114 
